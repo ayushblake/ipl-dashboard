@@ -1,0 +1,10 @@
+/Users/abhati21/My_Projects/SELF-PRACTISE-PROJECTS/IPL Dashboard/Backend/ipl-dashboard/src/main/java/com/demo/ipldashboard/Controller/TeamController.java
+/Users/abhati21/My_Projects/SELF-PRACTISE-PROJECTS/IPL Dashboard/Backend/ipl-dashboard/src/main/java/com/demo/ipldashboard/data/BatchConfig.java
+/Users/abhati21/My_Projects/SELF-PRACTISE-PROJECTS/IPL Dashboard/Backend/ipl-dashboard/src/main/java/com/demo/ipldashboard/data/JobCompletionNotificationListener.java
+/Users/abhati21/My_Projects/SELF-PRACTISE-PROJECTS/IPL Dashboard/Backend/ipl-dashboard/src/main/java/com/demo/ipldashboard/Repository/TeamRepository.java
+/Users/abhati21/My_Projects/SELF-PRACTISE-PROJECTS/IPL Dashboard/Backend/ipl-dashboard/src/main/java/com/demo/ipldashboard/IplDashboardApplication.java
+/Users/abhati21/My_Projects/SELF-PRACTISE-PROJECTS/IPL Dashboard/Backend/ipl-dashboard/src/main/java/com/demo/ipldashboard/model/Team.java
+/Users/abhati21/My_Projects/SELF-PRACTISE-PROJECTS/IPL Dashboard/Backend/ipl-dashboard/src/main/java/com/demo/ipldashboard/data/MatchInput.java
+/Users/abhati21/My_Projects/SELF-PRACTISE-PROJECTS/IPL Dashboard/Backend/ipl-dashboard/src/main/java/com/demo/ipldashboard/Repository/MatchRepository.java
+/Users/abhati21/My_Projects/SELF-PRACTISE-PROJECTS/IPL Dashboard/Backend/ipl-dashboard/src/main/java/com/demo/ipldashboard/data/MatchDataProcessor.java
+/Users/abhati21/My_Projects/SELF-PRACTISE-PROJECTS/IPL Dashboard/Backend/ipl-dashboard/src/main/java/com/demo/ipldashboard/model/Match.java

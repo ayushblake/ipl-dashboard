@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.demo.ipldashboard.IplDashboardApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.965 s - in com.demo.ipldashboard.IplDashboardApplicationTests
